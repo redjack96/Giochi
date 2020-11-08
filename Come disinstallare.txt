@@ -1,0 +1,7 @@
+Per disinstallare il gioco devi semplicemente cliccare di nuovo sull'installatore (Installa Art of Cards-1.0.exe)
+
+Se hai perso l'installatore:
+1. Scrivi sulla barra di ricerca di Windows 10 "Art of Cards"
+2. Clicca su Disinstalla
+3. Si apre il pannello di controllo. Cerca Art of Cards e clicca disinstalla.
+4. Conferma.
